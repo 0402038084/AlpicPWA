@@ -12,7 +12,7 @@ import { FooterComponent } from './footer/footer.component';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
 
-NgModule({
+@NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
